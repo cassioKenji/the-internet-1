@@ -3,7 +3,7 @@ ruby '2.2.2'
 
 gem 'sinatra', '>= 2.0.0'
 gem 'sinatra-flash', '>= 0.3.0'
-gem 'sinatra-contrib', '>= 2.0.0'
+gem 'sinatra-contrib', '>= 2.0.1'
 gem 'shotgun', '>= 0.9.1'
 gem 'zurb-foundation'
 gem 'compass'
